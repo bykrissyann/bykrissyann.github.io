@@ -73,7 +73,7 @@ p {
         width: 45%;
         height: 55%;
         position: absolute;
-        bottom: 35%;
+        bottom: 45%;
         left: 50%;
         transform: translate(-50%, 50%);
         background-color: #f7f3f1;
@@ -88,7 +88,7 @@ p {
 
     .hero-inner-overlay {
         position: absolute;
-        bottom: 35%;
+        bottom: 45%;
         left: 50%;
         transform: translate(-50%, 50%);
         text-align: center;
