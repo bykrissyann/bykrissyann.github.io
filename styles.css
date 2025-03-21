@@ -376,6 +376,18 @@ a:visited {
     font-family: "poppins", sans-serif;
 }
 
+.part-two-story {
+    margin-top: 60px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 50px;
+}
+
+.part-two-story p {
+    font-family: "poppins", sans-serif;
+    margin-bottom: 30px;
+}
+
 .post-heading-container {
     display: flex;
     align-items: center;
@@ -435,6 +447,13 @@ a:visited {
     display: block;
     width: 100%;
     border-radius: 50%;
+}
+
+.beautiful-macarons-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+
 }
 
 @media (min-width: 500px) {
