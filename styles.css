@@ -71,7 +71,7 @@ p {
         text-align: center;
         justify-content: center;
         width: 45%;
-        height: 40%;
+        height: 55%;
         position: absolute;
         bottom: 35%;
         left: 50%;
@@ -97,6 +97,8 @@ p {
         height: auto;
         letter-spacing: .1rem;
         line-height: 1.2;
+
+
         /* display: flex;
     flex-direction: column;
     align-items: center;
@@ -406,13 +408,10 @@ a:visited {
 
 .hero-img {
     width: 75%;
-    background-color: #eae4e2;
 }
 
 .hero-img img {
-    width: 95%;
-    padding: 15px 0px;
-
+    width: 100%;
 }
 
 .flop-grid-container {
